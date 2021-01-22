@@ -227,7 +227,7 @@ Edit the text to match who can attend the workshop. For instance:
   for more information
 
 {% endcomment %}<p id="who-can-attend">
-    <strong>Who can attend?:</strong>
+    <strong>Who can attend?</strong>
     This workshop is open to current Notre Dame students, faculty, and staff.
 </p>
 
